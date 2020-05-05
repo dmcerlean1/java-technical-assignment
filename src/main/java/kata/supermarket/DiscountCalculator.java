@@ -7,8 +7,7 @@ import java.util.List;
  * A discount calculator. Knows about all available discounts and the
  * items to which they apply.
  *
- * Alternatively I may have put the discounts in the items but I want to be able
- * to make discounts across different items.
+
  */
 public class DiscountCalculator {
 
